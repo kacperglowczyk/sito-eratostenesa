@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "sito-eratostenesa/1.0.0": {
+        "runtime": {
+          "sito-eratostenesa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sito-eratostenesa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

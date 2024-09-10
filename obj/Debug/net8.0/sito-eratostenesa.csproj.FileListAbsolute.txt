@@ -1,0 +1,14 @@
+/Users/kacper.glowczyk/Desktop/algorytmy/sito-eratostenesa/sito-eratostenesa/bin/Debug/net8.0/sito-eratostenesa
+/Users/kacper.glowczyk/Desktop/algorytmy/sito-eratostenesa/sito-eratostenesa/bin/Debug/net8.0/sito-eratostenesa.deps.json
+/Users/kacper.glowczyk/Desktop/algorytmy/sito-eratostenesa/sito-eratostenesa/bin/Debug/net8.0/sito-eratostenesa.runtimeconfig.json
+/Users/kacper.glowczyk/Desktop/algorytmy/sito-eratostenesa/sito-eratostenesa/bin/Debug/net8.0/sito-eratostenesa.dll
+/Users/kacper.glowczyk/Desktop/algorytmy/sito-eratostenesa/sito-eratostenesa/bin/Debug/net8.0/sito-eratostenesa.pdb
+/Users/kacper.glowczyk/Desktop/algorytmy/sito-eratostenesa/sito-eratostenesa/obj/Debug/net8.0/sito-eratostenesa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kacper.glowczyk/Desktop/algorytmy/sito-eratostenesa/sito-eratostenesa/obj/Debug/net8.0/sito-eratostenesa.AssemblyInfoInputs.cache
+/Users/kacper.glowczyk/Desktop/algorytmy/sito-eratostenesa/sito-eratostenesa/obj/Debug/net8.0/sito-eratostenesa.AssemblyInfo.cs
+/Users/kacper.glowczyk/Desktop/algorytmy/sito-eratostenesa/sito-eratostenesa/obj/Debug/net8.0/sito-eratostenesa.csproj.CoreCompileInputs.cache
+/Users/kacper.glowczyk/Desktop/algorytmy/sito-eratostenesa/sito-eratostenesa/obj/Debug/net8.0/sito-eratostenesa.dll
+/Users/kacper.glowczyk/Desktop/algorytmy/sito-eratostenesa/sito-eratostenesa/obj/Debug/net8.0/refint/sito-eratostenesa.dll
+/Users/kacper.glowczyk/Desktop/algorytmy/sito-eratostenesa/sito-eratostenesa/obj/Debug/net8.0/sito-eratostenesa.pdb
+/Users/kacper.glowczyk/Desktop/algorytmy/sito-eratostenesa/sito-eratostenesa/obj/Debug/net8.0/sito-eratostenesa.genruntimeconfig.cache
+/Users/kacper.glowczyk/Desktop/algorytmy/sito-eratostenesa/sito-eratostenesa/obj/Debug/net8.0/ref/sito-eratostenesa.dll
